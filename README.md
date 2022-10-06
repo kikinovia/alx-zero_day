@@ -1,1 +1,1 @@
-My first readme now update on git
+My first readme now getting updated
